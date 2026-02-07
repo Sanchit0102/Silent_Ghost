@@ -118,6 +118,7 @@ header .container a {
 }
 .hero h1 {
   font-family: yumincho;
+  margin-bottom: 0.6em;
   font-size: 35px;
 }
 .hero p {
